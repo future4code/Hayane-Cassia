@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Oxygen', sans-serif;
+}
+
+#redesocial {
+    display: inline-block;
+    margin-left: 120px;
+}
+
+
+#redesocial ul li{
+    display: inline-block;
+    margin-top: 40px;
+    padding-right: 30px;
+}
+
+#redesocial ul{
+    display: inline-block;
+}
+
+#redesocial ul li img{
+    height: 50px;
+    width: 50px;
+}
+
+#redesocial .logo{
+    padding-right: 100px;
+}
+
+#contato {
+    display: inline-block;
+}
+
+#contato a{
+    vertical-align: super;
+    margin-left: 300px;
+    text-decoration: none;
+    color: black;
+    border: black solid 2px;
+    padding: 10px 15px ;
+    border-radius: 12px;
+}
+
+main{
+    margin-top: 80px;
+    text-align: center;
+}
+
+main h1{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+}
+
+main p{
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.photohay{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.browser{
+    display: inline-block;
+}
+
+.browser img{
+    width: 200px;
+    height: 200px;
+    margin: 0 0 0px 80px;
+}
+
+section{
+    display: inline-block;
+    width: 100%;
+    height: 450px;
+}
+
+section div:first-child{
+    background-color: #e88d00;
+    width: 100%;
+    height: 300px;
+    position: absolute;
+}
+
+section div:first-child p{
+    font-size: 18px;
+    text-align: center;
+    margin: 65px 250px 0px 330px;
+}
+
+section div:last-child{
+    background-color: #ffffff;
+    border: gray solid 1px;
+    width: 90%;
+    height: 215px;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 5%;
+    border-radius: 30px;
+    text-align: center;
+}
+
+section div:last-child h2{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+section div:last-child p{
+    font-size: 20px;
+    line-height: 40px;
+}
+
+#projetos{
+    display: inline-block;
+    width: 90%;
+    height: 1250px;
+    margin-left: 5%;
+}
+
+#projetos ul {
+    text-align: center;
+}
+
+#projetos h3{
+    text-align: center;
+    font-size: 26px;
+}
+
+#projetos ul li{
+    list-style-type: none;
+    margin-top: 60px;
+}
+
+#projetos li img{
+    height: 290px;
+    width: 360px;
+    border: black solid 2px;
+}
+
+#projetos ul li p{
+    margin-top: 10px;
+}
+
+hr{
+    color: #e88d00;
+}
+
+footer{
+    width: 100%;
+    text-align: center;
+    margin: 10px 10px;
+}
