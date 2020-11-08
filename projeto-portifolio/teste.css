@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    display: inline;
+    margin-left: 80px;
+}
+
+
+#redesocial ul li{
+    display: inline-block;
+    margin-top: 25px;
+    padding-right: 30px;
+}
+
+#redesocial ul{
+    display: inline-block;
+}
+
+#redesocial ul li img{
+    height: 50px;
+    width: 50px;
+    display: inline;
+}
+
+#redesocial .logo{
+    padding-right: 100px;
+}
