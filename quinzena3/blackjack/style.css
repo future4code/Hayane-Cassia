@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div{
+    display: grid;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.botton1{
+    margin: 0 0 20px 0;
+}
